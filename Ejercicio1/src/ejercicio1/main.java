@@ -6,6 +6,7 @@ public class main {
 		
 		System.out.println("Hola");
 		System.out.println("Que tal");
+		System.out.println("Como estas");
 
 	}
 
